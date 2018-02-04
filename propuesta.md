@@ -1,5 +1,5 @@
 % Videoclub "Los Pajaritos"
-% Ricardo Pérez
+% Daniel Toro Nieto
 % Curso 2017/18
 
 # Descripción general del proyecto
@@ -8,19 +8,19 @@ Explicar.
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+Informar a los usuarios de noticias y estadisticas.
+Poner en contacto a futbolistas y entrenadores a la hora de las estrategias deportivas
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
-
-Por ejemplo:
-
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+* Informar de las novedades deportivas
+* Informar sobre las ligas 
+* Informar sobre los partidos
+* Informar sobre los equpos y jugadores
+* Creacion de tacticas
+* Debatir tacticas entre miembros del equipo
+* Comentar jugadas de manera publica
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Herramienta para poder dibujar sobre imagenes para la creacion de tacticas
