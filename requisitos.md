@@ -40,154 +40,172 @@
 | **R05**     | **xcvxcv**           |
 | --------------: | :------------------- |
 | **Descripción** | sdkfjklsdfjldksf - sdlkfjlksdjfldksjflksjfdss - slkdjflksjflksjflksjkljfksldjfldks sldkjflskdjfdlskjflksdjflkdsjflkjslkfjslkjfdlskjflsjklfdjslkjlskjdflks klsdjfkljsdlkfjskldf sdklfjklsdjfklsdjflksdjfklsdjkl lñklllllllllllllllllllllllqweqweqweqew             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
-| ****     | **Crear tabla Noticias **           |
+| **R06**     | **Tabla Noticias **           |
 | --------------: | :------------------- |
-| **Descripción** | crear una tabla donde se guardaran los datos de la noticia              |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenar datos de noticias (titulo , descripción , fecha , autor)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear tabla Liga**           |
+| **R07**     | **Tabla Liga**           |
 | --------------: | :------------------- |
-| **Descripción** | crear una tabla con los datos de cada liga             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenar datos de cada liga (nombre,equipos)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crea tabla Equipos**           |
+| **R08**     | **Tabla Equipos**           |
 | --------------: | :------------------- |
-| **Descripción** | crear una tabla con los datos de cada equipo             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenar datos de cada equipo (nombre,estadio,jugadores,liga)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear tabla Jugadores**           |
+| **R09**     | **Tabla Jugadores**           |
 | --------------: | :------------------- |
-| **Descripción** | crear una tabla con los datos de cada jugador             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenar  datos de cada jugador (nombre,posicion,edad,equipo)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crea tabla Partidos**           |
+| **R10**     | **Tabla Partidos**           |
 | --------------: | :------------------- |
-| **Descripción** | crear una tabla con los datos de cada partido             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenar datos de cada partido (fecha,equipo local,equipo visitante,detalles del partido)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Generar Estadisticas jugadores**           |
+| **R11**     | **Tabla Detalles_Partido**           |
 | --------------: | :------------------- |
-| **Descripción** | tener una lista con estadisticas de jugadores según sus partidos (goles,partidos jugados…)             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | detalles del partido de cada jugador (goles,minutos  jugados, tarjetas)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Buscador**           |
+| **R12**     | **Buscador**           |
 | --------------: | :------------------- |
-| **Descripción** | tener un buscador para acceder rapidamente              |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | tener un buscador para acceder rapidamente a equipos , jugadores o ligas             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
 
 
-| ****     | **Crear tabla Posts**           |
+| **R13**     | **Tabla Posts**           |
 | --------------: | :------------------- |
-| **Descripción** | una tabla donde se almacenara los datos de cada entrada en el foro             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | Almacenara datos de cada entrada en el foro(autor,titulo,descripcion,fecha)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear tabla Respuestas**           |
+| **R14**     | **Tabla Respuestas**           |
 | --------------: | :------------------- |
-| **Descripción** | una tabla donde se almacenara los datos de cada respuesta en el post             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | se almacenara los datos de cada respuesta en el post (autor,post,descripcion,fecha)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear herramienta de tacticas**           |
+| **R15**     | **Tabla Posts-Equipo**           |
+| --------------: | :------------------- |
+| **Descripción** | Almacenara datos de cada entrada en el foro(autor,titulo,descripcion,fecha)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R16**     | **Tabla Respuestas-Equipo**           |
+| --------------: | :------------------- |
+| **Descripción** | se almacenara los datos de cada respuesta en el post (autor,post,descripcion,fecha)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R17**     | **Herramienta de tacticas**           |
 | --------------: | :------------------- |
 | **Descripción** | una herramienta de diseño para la creacion de tacticas y estrategias             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
 
 
-| ****     | **Crear tabla Img Predefinidas**           |
+| **R18**     | **Tabla Img Predefinidas**           |
 | --------------: | :------------------- |
 | **Descripción** | una tabla para almacenar imagenes como plantilla para la herramienta de diseño             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
 
 
-| ****     | **Crear tabla Img Usuario**           |
+| **R19**     | **Tabla Img Usuario**           |
 | --------------: | :------------------- |
 | **Descripción** | una tabla para guardar las imagenes como plantilla para cada usuario             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
 
 
-| ****     | **Crear tabla Equipo Usuario**           |
+| **R20**     | **Tabla Equipo Usuario**           |
 | --------------: | :------------------- |
-| **Descripción** | donde se almacenar los datos de los equipos de los usuarios para compartir sus tacticas de forma privada             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Descripción** | almacenara datos de los equipos creador por los usuarios (creador,nombre,miembros)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear tabla Miembro Equipo**           |
+| **R21**     | **Crear tabla Miembro Equipo**           |
 | --------------: | :------------------- |
 | **Descripción** | donde se guarda cada participante de cada equipo             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear Tabla Usuario**           |
+| **R22**     | **Crear Tabla Usuario**           |
 | --------------: | :------------------- |
 | **Descripción** | tabla que almacena los datos de cada usuario             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
 
 
-| ****     | **Crear atajos de teclaro**           |
+| **R23**     | **Crear atajos de teclado**           |
 | --------------: | :------------------- |
 | **Descripción** | para acceder rapidamente a las distintas pestañas             |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
 
 
 
@@ -199,20 +217,22 @@
 | (**R02**) kdldjflgdfg | Importante | Técnico | Fácil | v2 |
 | (**R03**) sdfsfd | Importante | Información | Fácil | v3 |
 | (**R04**) sfsfsfd | Opcional | Funcional | Media | v3 |
-| (**R05**) xcvxcv | Opcional | Información | Difícil | v3 |
-| (****) Crear tabla Noticias  |  |  |  |  |
-| (****) Crear tabla Liga |  |  |  |  |
-| (****) Crea tabla Equipos |  |  |  |  |
-| (****) Crear tabla Jugadores |  |  |  |  |
-| (****) Crea tabla Partidos |  |  |  |  |
-| (****) Generar Estadisticas jugadores |  |  |  |  |
-| (****) Buscador |  |  |  |  |
-| (****) Crear tabla Posts |  |  |  |  |
-| (****) Crear tabla Respuestas |  |  |  |  |
-| (****) Crear herramienta de tacticas |  |  |  |  |
-| (****) Crear tabla Img Predefinidas |  |  |  |  |
-| (****) Crear tabla Img Usuario |  |  |  |  |
-| (****) Crear tabla Equipo Usuario |  |  |  |  |
-| (****) Crear tabla Miembro Equipo |  |  |  |  |
-| (****) Crear Tabla Usuario |  |  |  |  |
-| (****) Crear atajos de teclaro |  |  |  |  |
+| (**R05**) xcvxcv | Importante | Información | Difícil | v3 |
+| (**R06**) Tabla Noticias  | Importante | Información | Fácil | v1 |
+| (**R07**) Tabla Liga | Importante | Información | Fácil | v1 |
+| (**R08**) Tabla Equipos | Importante | Información | Fácil | v1 |
+| (**R09**) Tabla Jugadores | Importante | Información | Fácil | v1 |
+| (**R10**) Tabla Partidos | Importante | Información | Media | v1 |
+| (**R11**) Tabla Detalles_Partido | Importante | Información | Media | v1 |
+| (**R12**) Buscador | Importante | Funcional | Fácil | v2 |
+| (**R13**) Tabla Posts | Importante | Información | Fácil | v1 |
+| (**R14**) Tabla Respuestas | Importante | Información | Fácil | v1 |
+| (**R15**) Tabla Posts-Equipo | Importante | Información | Fácil | v1 |
+| (**R16**) Tabla Respuestas-Equipo | Importante | Información | Fácil | v1 |
+| (**R17**) Herramienta de tacticas | Importante | Información | Difícil | v2 |
+| (**R18**) Tabla Img Predefinidas | Importante | Información | Fácil | v2 |
+| (**R19**) Tabla Img Usuario | Importante | Información | Fácil | v2 |
+| (**R20**) Tabla Equipo Usuario | Importante | Información | Fácil | v1 |
+| (**R21**) Crear tabla Miembro Equipo | Importante | Información | Fácil | v1 |
+| (**R22**) Crear Tabla Usuario | Importante | Información | Fácil | v1 |
+| (**R23**) Crear atajos de teclado | Importante | Funcional | Fácil | v3 |
