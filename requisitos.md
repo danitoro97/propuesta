@@ -190,7 +190,70 @@
 | **Entrega**     | v1             |
 
 
-| **R22**     | **Ver Ligas**           |
+| **R22**     | **Registrar Usuarios**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R23**     | **Verificar usuario**           |
+| --------------: | :------------------- |
+| **Descripción** | verificar usuario mediante correo electrónico             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R24**     | **Logear Usuario**           |
+| --------------: | :------------------- |
+| **Descripción** | el usuario podrá iniciar sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R25**     | **Deslogear**           |
+| --------------: | :------------------- |
+| **Descripción** | el usuario podrá cerrar la sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R26**     | **Consultar datos de usuario**           |
+| --------------: | :------------------- |
+| **Descripción** | un usuario podrá ver sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R27**     | **Modificar datos de usuario**           |
+| --------------: | :------------------- |
+| **Descripción** | un usuario podrá cambiar sus datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R28**     | **Darse de baja**           |
+| --------------: | :------------------- |
+| **Descripción** | los usuarios podrán darse de baja de la web             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R29**     | **Ver Ligas**           |
 | --------------: | :------------------- |
 | **Descripción** | Un visitante podrá ver la información sobre las ligas             |
 | **Prioridad**   | Importante           |
@@ -199,7 +262,7 @@
 | **Entrega**     | v1             |
 
 
-| **R23**     | **Ver Equipos**           |
+| **R30**     | **Ver Equipos**           |
 | --------------: | :------------------- |
 | **Descripción** | Un visitante podrá ver la información sobre los equipos y sus jugadores             |
 | **Prioridad**   | Importante           |
@@ -208,7 +271,7 @@
 | **Entrega**     | v1             |
 
 
-| **R24**     | **Ver Horario de Partidos**           |
+| **R31**     | **Ver Horario de Partidos**           |
 | --------------: | :------------------- |
 | **Descripción** | Los visitantes podrán ver un calendario con fecha y hora de los partidos             |
 | **Prioridad**   | Importante           |
@@ -217,7 +280,7 @@
 | **Entrega**     | v2             |
 
 
-| **R25**     | **Ver Detalles del partido**           |
+| **R32**     | **Ver Detalles del partido**           |
 | --------------: | :------------------- |
 | **Descripción** | Los visitantes podrán obtener información mas detallada del partido             |
 | **Prioridad**   | Importante           |
@@ -226,7 +289,7 @@
 | **Entrega**     | v2             |
 
 
-| **R26**     | **Comentar Partidos**           |
+| **R33**     | **Comentar Partidos**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán comentar los partidos             |
 | **Prioridad**   | Importante           |
@@ -235,7 +298,7 @@
 | **Entrega**     | v2             |
 
 
-| **R27**     | **Acceder al foro**           |
+| **R34**     | **Acceder al foro**           |
 | --------------: | :------------------- |
 | **Descripción** | Los visitantes podrán acceder al foro y leer sus entradas             |
 | **Prioridad**   | Importante           |
@@ -244,7 +307,7 @@
 | **Entrega**     | v2             |
 
 
-| **R28**     | **Crear entrada**           |
+| **R35**     | **Crear entrada**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán añadir entradas al foro             |
 | **Prioridad**   | Importante           |
@@ -253,7 +316,7 @@
 | **Entrega**     | v2             |
 
 
-| **R29**     | **Responder a entradas**           |
+| **R36**     | **Responder a entradas**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán responder a entradas del foro             |
 | **Prioridad**   | Importante           |
@@ -262,7 +325,7 @@
 | **Entrega**     | v2             |
 
 
-| **R30**     | **Valorar entradas**           |
+| **R37**     | **Valorar entradas**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán valorar las entradas (like,dislike)             |
 | **Prioridad**   | Opcional           |
@@ -271,7 +334,7 @@
 | **Entrega**     | v3             |
 
 
-| **R31**     | **Añadir img a su plantilla**           |
+| **R38**     | **Añadir img a su plantilla**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán añadir imágenes para su plantilla              |
 | **Prioridad**   | Importante           |
@@ -280,7 +343,7 @@
 | **Entrega**     | v2             |
 
 
-| **R32**     | **Crear Equipos**           |
+| **R39**     | **Crear Equipos**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán crear sus propios equipos             |
 | **Prioridad**   | Importante           |
@@ -289,7 +352,7 @@
 | **Entrega**     | v2             |
 
 
-| **R33**     | **Añadir miembros**           |
+| **R40**     | **Añadir miembros**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán añadir miembros a sus equipos             |
 | **Prioridad**   | Importante           |
@@ -298,7 +361,7 @@
 | **Entrega**     | v2             |
 
 
-| **R34**     | **Eliminar miembros**           |
+| **R41**     | **Eliminar miembros**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán eliminar miembros de sus equipos             |
 | **Prioridad**   | Importante           |
@@ -307,7 +370,7 @@
 | **Entrega**     | v2             |
 
 
-| **R35**     | **Aceptar equipos**           |
+| **R42**     | **Aceptar equipos**           |
 | --------------: | :------------------- |
 | **Descripción** | Los usuarios podrán aceptar o no su entrada a equipos             |
 | **Prioridad**   | Importante           |
@@ -316,7 +379,7 @@
 | **Entrega**     | v2             |
 
 
-| **R36**     | **Acceder al foro del equipo**           |
+| **R43**     | **Acceder al foro del equipo**           |
 | --------------: | :------------------- |
 | **Descripción** | Los miembros de un equipo podrán acceder a su propio foro ,crear entradas y  responder a entradas             |
 | **Prioridad**   | Importante           |
@@ -325,7 +388,7 @@
 | **Entrega**     | v3             |
 
 
-| **R37**     | **Notificar un error**           |
+| **R44**     | **Notificar un error**           |
 | --------------: | :------------------- |
 | **Descripción** | En cualquier momento , los visitantes podrán enviar un correo explicando el supuesto error             |
 | **Prioridad**   | Opcional           |
@@ -334,184 +397,211 @@
 | **Entrega**     | v3             |
 
 
-| **R38**     | **Validación de los formulario**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
-
-
-| **R39**     | **Gestión de ventanas**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v2             |
-
-
-| **R40**     | **Manejo de eventos**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
-
-
-| **R41**     | **Manipulación del DOM**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
-
-
-| **R42**     | **Mecanismo de almacenamiento**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | v3             |
-
-
-| **R43**     | **jQuery**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v1             |
-
-
-| **R44**     | **Plugin no utilizado en clase**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | v2             |
-
-
-| **R45**     | **Ajax**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
-
-
-| **R46**     | **PHP 7.1**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v1             |
-
-
-| **R47**     | **Yii2**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v1             |
-
-
-| **R48**     | **PostgreSQL 9.6 o superior**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v1             |
-
-
-| **R49**     | **Despliegue en Heroku**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | v3             |
-
-
-| **R50**     | **Codeception**           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
-
-
-| **R51**     | **Code Climate**           |
+| **R45**     | **Validación de los formulario**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
 | **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R46**     | **Gestión de ventanas**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R47**     | **Manejo de eventos**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R48**     | **Manipulación del DOM**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R49**     | **Mecanismo de almacenamiento**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R50**     | **jQuery**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R51**     | **Plugin no utilizado en clase**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R52**     | **Ajax**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R53**     | **PHP 7.1**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R54**     | **Yii2**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R55**     | **PostgreSQL 9.6 o superior**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R56**     | **Despliegue en Heroku**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
 | **Entrega**     | v3             |
 
 
-| **R52**     | **Validador para HTML5 y CSS3**           |
+| **R57**     | **Codeception**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | V3             |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
-| **R53**     | **Accesibilidad AA**           |
+| **R58**     | **Code Climate**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | v3             |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
-| **R54**     | **Prueba del seis**           |
+| **R59**     | **La aplicación debe ser escalable**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R60**     | **Se utilizaran etiquetas HTML5**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R61**     | **Existirán transiciones,transformaciones, animaciones y contenido multimedia.**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R62**     | **Validador para HTML5 y CSS3**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
-| **Entrega**     | V3             |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
-| **R55**     | **Uso de microdatos**           |
+| **R63**     | **Accesibilidad AA**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
-| **R56**     | **Despliegue en Host**           |
+| **R64**     | **Prueba del seis**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
-| **R57**     | **Despliegue en local**           |
+| **R65**     | **Uso de microdatos**           |
 | --------------: | :------------------- |
 | **Descripción** |              |
 | **Prioridad**   | Mínimo           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v3             |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R66**     | **Despliegue en Host**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
+
+
+| **R67**     | **Despliegue en local**           |
+| --------------: | :------------------- |
+| **Descripción** |              |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Técnico                |
+| **Complejidad** |          |
+| **Entrega**     |              |
 
 
 
@@ -540,39 +630,49 @@
 | (**R19**) Ver Noticias | Importante | Funcional | Fácil | v1 |
 | (**R20**) Comentar Noticias | Importante | Funcional | Fácil | v1 |
 | (**R21**) Subir Noticias | Importante | Funcional | Fácil | v1 |
-| (**R22**) Ver Ligas | Importante | Funcional | Media | v1 |
-| (**R23**) Ver Equipos | Importante | Funcional | Fácil | v1 |
-| (**R24**) Ver Horario de Partidos | Importante | Funcional | Media | v2 |
-| (**R25**) Ver Detalles del partido | Importante | Funcional | Fácil | v2 |
-| (**R26**) Comentar Partidos | Importante | Funcional | Fácil | v2 |
-| (**R27**) Acceder al foro | Importante | Funcional | Fácil | v2 |
-| (**R28**) Crear entrada | Importante | Funcional | Fácil | v2 |
-| (**R29**) Responder a entradas | Importante | Funcional | Fácil | v2 |
-| (**R30**) Valorar entradas | Opcional | Funcional | Fácil | v3 |
-| (**R31**) Añadir img a su plantilla | Importante | Funcional | Fácil | v2 |
-| (**R32**) Crear Equipos | Importante | Funcional | Fácil | v2 |
-| (**R33**) Añadir miembros | Importante | Funcional | Fácil | v2 |
-| (**R34**) Eliminar miembros | Importante | Funcional | Fácil | v2 |
-| (**R35**) Aceptar equipos | Importante | Funcional | Fácil | v2 |
-| (**R36**) Acceder al foro del equipo | Importante | Funcional | Fácil | v3 |
-| (**R37**) Notificar un error | Opcional | Funcional | Fácil | v3 |
-| (**R38**) Validación de los formulario | Mínimo | Funcional | Fácil | v3 |
-| (**R39**) Gestión de ventanas | Mínimo | Funcional | Fácil | v2 |
-| (**R40**) Manejo de eventos | Mínimo | Funcional | Fácil | v3 |
-| (**R41**) Manipulación del DOM | Mínimo | Funcional | Fácil | v3 |
-| (**R42**) Mecanismo de almacenamiento | Mínimo | Funcional | Media | v3 |
-| (**R43**) jQuery | Mínimo | Funcional | Fácil | v1 |
-| (**R44**) Plugin no utilizado en clase | Mínimo | Funcional | Media | v2 |
-| (**R45**) Ajax | Mínimo | Funcional | Fácil | v3 |
-| (**R46**) PHP 7.1 | Mínimo | Funcional | Fácil | v1 |
-| (**R47**) Yii2 | Mínimo | Funcional | Fácil | v1 |
-| (**R48**) PostgreSQL 9.6 o superior | Mínimo | Funcional | Fácil | v1 |
-| (**R49**) Despliegue en Heroku | Mínimo | Funcional | Media | v3 |
-| (**R50**) Codeception | Mínimo | Funcional | Fácil | v3 |
-| (**R51**) Code Climate | Mínimo | Funcional |  | v3 |
-| (**R52**) Validador para HTML5 y CSS3 | Mínimo | Funcional | Media | V3 |
-| (**R53**) Accesibilidad AA | Mínimo | Funcional | Media | v3 |
-| (**R54**) Prueba del seis | Mínimo | Funcional | Media | V3 |
-| (**R55**) Uso de microdatos | Mínimo | Funcional | Fácil | v3 |
-| (**R56**) Despliegue en Host | Mínimo | Funcional | Fácil | v3 |
-| (**R57**) Despliegue en local | Mínimo | Funcional | Fácil | v3 |
+| (**R22**) Registrar Usuarios | Importante | Funcional | Fácil | v1 |
+| (**R23**) Verificar usuario | Importante | Funcional | Fácil | v1 |
+| (**R24**) Logear Usuario | Importante | Funcional | Fácil | v1 |
+| (**R25**) Deslogear | Importante | Funcional | Fácil | v1 |
+| (**R26**) Consultar datos de usuario | Importante | Funcional | Fácil | v1 |
+| (**R27**) Modificar datos de usuario | Importante | Funcional | Fácil | v1 |
+| (**R28**) Darse de baja | Importante | Funcional | Fácil | v1 |
+| (**R29**) Ver Ligas | Importante | Funcional | Media | v1 |
+| (**R30**) Ver Equipos | Importante | Funcional | Fácil | v1 |
+| (**R31**) Ver Horario de Partidos | Importante | Funcional | Media | v2 |
+| (**R32**) Ver Detalles del partido | Importante | Funcional | Fácil | v2 |
+| (**R33**) Comentar Partidos | Importante | Funcional | Fácil | v2 |
+| (**R34**) Acceder al foro | Importante | Funcional | Fácil | v2 |
+| (**R35**) Crear entrada | Importante | Funcional | Fácil | v2 |
+| (**R36**) Responder a entradas | Importante | Funcional | Fácil | v2 |
+| (**R37**) Valorar entradas | Opcional | Funcional | Fácil | v3 |
+| (**R38**) Añadir img a su plantilla | Importante | Funcional | Fácil | v2 |
+| (**R39**) Crear Equipos | Importante | Funcional | Fácil | v2 |
+| (**R40**) Añadir miembros | Importante | Funcional | Fácil | v2 |
+| (**R41**) Eliminar miembros | Importante | Funcional | Fácil | v2 |
+| (**R42**) Aceptar equipos | Importante | Funcional | Fácil | v2 |
+| (**R43**) Acceder al foro del equipo | Importante | Funcional | Fácil | v3 |
+| (**R44**) Notificar un error | Opcional | Funcional | Fácil | v3 |
+| (**R45**) Validación de los formulario | Mínimo | Funcional |  |  |
+| (**R46**) Gestión de ventanas | Mínimo | Funcional |  |  |
+| (**R47**) Manejo de eventos | Mínimo | Técnico |  |  |
+| (**R48**) Manipulación del DOM | Mínimo | Técnico |  |  |
+| (**R49**) Mecanismo de almacenamiento | Mínimo | Técnico |  |  |
+| (**R50**) jQuery | Mínimo | Técnico |  |  |
+| (**R51**) Plugin no utilizado en clase | Mínimo | Técnico |  |  |
+| (**R52**) Ajax | Mínimo | Técnico |  |  |
+| (**R53**) PHP 7.1 | Mínimo | Técnico |  |  |
+| (**R54**) Yii2 | Mínimo | Técnico |  |  |
+| (**R55**) PostgreSQL 9.6 o superior | Mínimo | Técnico |  |  |
+| (**R56**) Despliegue en Heroku | Mínimo | Técnico |  | v3 |
+| (**R57**) Codeception | Mínimo | Funcional |  |  |
+| (**R58**) Code Climate | Mínimo | Funcional |  |  |
+| (**R59**) La aplicación debe ser escalable | Mínimo | Técnico |  |  |
+| (**R60**) Se utilizaran etiquetas HTML5 | Mínimo | Técnico |  |  |
+| (**R61**) Existirán transiciones,transformaciones, animaciones y contenido multimedia. | Mínimo | Técnico |  |  |
+| (**R62**) Validador para HTML5 y CSS3 | Mínimo | Funcional |  |  |
+| (**R63**) Accesibilidad AA | Mínimo | Funcional |  |  |
+| (**R64**) Prueba del seis | Mínimo | Funcional |  |  |
+| (**R65**) Uso de microdatos | Mínimo | Técnico |  |  |
+| (**R66**) Despliegue en Host | Mínimo | Técnico |  |  |
+| (**R67**) Despliegue en local | Mínimo | Técnico |  |  |

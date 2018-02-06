@@ -4,12 +4,8 @@
 
 # Descripción general del proyecto
 
-Explicar.
-
-## Funcionalidad principal de la aplicación
-
-Informar a los usuarios de noticias y estadisticas.
-Poner en contacto a futbolistas y entrenadores a la hora de las estrategias deportivas
+Informar a los usuarios de noticias y estadisticas deportivas.
+Comentar partidos y discutir sobre tácticas y estrategias en un foro público o con tu propio equipo
 
 ## Objetivos generales
 
