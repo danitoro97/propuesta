@@ -1,4 +1,4 @@
-% Videoclub "Los Pajaritos"
+% "DruidKuma"
 % Daniel Toro Nieto
 % Curso 2017/18
 
